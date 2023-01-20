@@ -4,7 +4,10 @@
 			"items" : 10
 		},
 		"firstName" : {
+			"string" : ["John","Freddy","Abraham","Mathias","Kante","Rooney","Buffon","Messi","Ronaldo","Ronaldinho"]
+		},
+		"lastName" : {
 			"string" : {}
-		}
+		},
 	}
 }
