@@ -4,11 +4,12 @@
         "string": {}
       },
       "lastName": {
-	 "string" : {}
-	},
+	       "string" : {}
+	    },
       "age" : {
-	  "string" : {}
-	},
-      }
+	    "string" : {}
+	    }
+      
     }
-  }
+}
+  
