@@ -1,5 +1,7 @@
 {
-    "User": {
-        "first_name": "name__male"
-    }
+	"Post" : {
+		"_" : {
+			"items" : 10
+		}
+	}
 }
