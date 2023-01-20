@@ -1,6 +1,7 @@
-    github.com/Kinn7/mockend-rest-api/.mockend.json 
+    github.com/cashoefman/Mockend-Rest-API-Example/.mockend.json 
 
- {
+
+    {
       "User": {
         "title": { "string": {} }
       }
