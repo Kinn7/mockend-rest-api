@@ -1,11 +1,7 @@
+    github.com/Kinn7/mockend-rest-api/.mockend.json 
 
-[
-    {
-        firstName : "kidus",
-        lastName : "berhanu",
-        age : 13,
-        gender : "male",
-        height : "6'3"
-        
+ {
+      "User": {
+        "title": { "string": {} }
+      }
     }
-]
