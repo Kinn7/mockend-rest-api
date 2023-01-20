@@ -1,7 +1,10 @@
 {
-	"Post" : {
+	"User" : {
 		"_" : {
 			"items" : 10
+		},
+		"firstName" : {
+			"string" : {}
 		}
 	}
 }
