@@ -1,9 +1,6 @@
 {
     "User": {
-      //"firstName": {
-        //"string": {}
-      //},
-	"firstName" : "firstName",
+  	"firstName" : "firstName",
       "lastName": {
 	       "string" : {}
 	    },
